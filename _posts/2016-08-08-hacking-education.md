@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-08T21:29:58.523Z'
+datePublished: '2016-08-08T21:30:03.119Z'
 sourcePath: _posts/2016-08-08-hacking-education.md
 author: []
 via: {}
-dateModified: '2016-08-08T21:17:15.712Z'
+dateModified: '2016-08-08T21:30:02.960Z'
 title: Hacking Education
 publisher: {}
 description: >-
