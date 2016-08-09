@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-08-09T09:50:17.170Z'
+datePublished: '2016-08-09T21:07:05.323Z'
 sourcePath: _posts/2016-08-08-hacking-education.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-09T09:50:15.635Z'
+dateModified: '2016-08-09T21:07:02.960Z'
 title: Hacking Education
 publisher: {}
 description: >-
@@ -13,7 +13,7 @@ description: >-
   hackers that are coming to hacker conferences and participating in workshops
   specifically targeting children. I think this is good for those children and
   society in general. Here’s why.
-starred: false
+starred: true
 _type: Blurb
 
 ---
