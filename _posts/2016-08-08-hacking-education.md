@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-09T02:04:12.334Z'
+datePublished: '2016-08-09T02:10:26.856Z'
 sourcePath: _posts/2016-08-08-hacking-education.md
 author: []
 via: {}
-dateModified: '2016-08-09T02:03:40.974Z'
+dateModified: '2016-08-09T02:10:13.667Z'
 title: Hacking Education
 publisher: {}
 description: >-
@@ -53,7 +53,7 @@ This in turn connects to the phenomenon of conservative versus liberal, past and
 
 As a contrast, Science1 starts from the assumption that we have a world-view and it is probably incorrect in some way. Science1 is essentially in a feedback loop with Reality. Science1 does not tell Reality how She should be, it seeks to discover Her, to dance with Her, to reflect off of Her. This connects to the hacker ethos, as expressed by Dan Kaminsky: \["The primary thing that we break, as hackers, are assumptions. People think they know how the world works, and there's how they really work, and there's a difference."\](https://www.youtube.com/watch?v=9wx2TnaRSGs). The space between what the manufacturer of a machine intended it to be used and how the machine really works is the gap between language and reality. Exploits come from that space, as do many other creative behaviors.
 
-If we blur our eyes, zoom out a little, we can see that this process of getting a world-view closer to Reality is actually isomorphic to the processes of Learning and Evolution. Minds evolve new hypotheses, new world-views, and some of them survive longer than others when thrown against the selective pressures of experiment. Those that have so far survived the longest are called "knowledge" and made into an effigy of Truth, the current leaders in the memetic race to live long and prosper. This is the revelation of Machine Learning, that measuring how incorrect a hypothesis can tell us how to improve the hypothesis (https://en.wikipedia.org/wiki/Bayes%27\_theorem).
+If we blur our eyes, zoom out a little, we can see that this process of getting a world-view closer to Reality is actually isomorphic to the processes of Learning and Evolution. Minds evolve new hypotheses, new world-views, and some of them survive longer than others when thrown against the selective pressures of experiment. Those that have so far survived the longest are called "knowledge" and made into an effigy of Truth, the current leaders in the memetic race to live long and prosper. This is one of the primary revelations of Machine Learning, that measuring how incorrect a hypothesis can tell us how to improve the hypothesis (https://en.wikipedia.org/wiki/Bayes%27\_theorem).
 
 ## Frequency Matters
 
