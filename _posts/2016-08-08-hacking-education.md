@@ -1,9 +1,10 @@
 ---
-datePublished: '2016-08-09T02:10:53.654Z'
+datePublished: '2016-08-09T09:50:17.170Z'
 sourcePath: _posts/2016-08-08-hacking-education.md
+inFeed: true
 author: []
 via: {}
-dateModified: '2016-08-09T02:10:52.263Z'
+dateModified: '2016-08-09T09:50:15.635Z'
 title: Hacking Education
 publisher: {}
 description: >-
@@ -13,10 +14,7 @@ description: >-
   specifically targeting children. I think this is good for those children and
   society in general. Here’s why.
 starred: false
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+_type: Blurb
 
 ---
 ![This is what hackers do. Do you believe that?](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6d16ed5-9ce2-41a8-b558-e67e487a8255.jpg)
