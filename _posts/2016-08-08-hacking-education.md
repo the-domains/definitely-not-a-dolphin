@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-09T22:20:04.225Z'
+datePublished: '2016-08-09T22:20:44.153Z'
 sourcePath: _posts/2016-08-08-hacking-education.md
 inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-09T22:18:57.189Z'
+dateModified: '2016-08-09T22:20:42.254Z'
 title: Hacking Education
 publisher: {}
 description: >-
@@ -32,7 +32,7 @@ I contend that Computer Science, and specifically the kind represented by the ha
 
 Science1 - v. "A methodology for separating delusion from world-views thru doubt and experimentation."
 
-Science2 - n. "A body of knowledge or world-view ostensibly derived by using Science1."
+Science2 - n. "A body of knowledge or world-view ostensibly derived using Science1."
 
 This distinction between two sciences is essentially the distinction between code and data, a distinction frequently exploited by hackers. I contend that one of the deep ways the US's educational system is broken is that it focuses on Science2 at the expense of Science1\. Smearing out many, many details to get the big picture, "Science" as a school topic is usually presented as a network of facts to be memorized and repeated back on the test. This is Science2, a historical record of the excretions of Science1\. When the methodology is taught, as in Chemistry labs or Physics labs, the experiment is typically prescribed by the teacher, with a correct answer already specified.
 
@@ -46,7 +46,7 @@ A good example of this phenomenon is how drug research is funded by government a
 And this connects to why, if you are a king/leader/ruling-class that would like to maintain dominion over your underlings/vassals/serfs, you might prefer the students in your kingdom to learn Science2 and not Science1\. Dominion is a two-player game, it requires the implicit consent of both parties, the dominated and the dominator, to believe in and act their corresponding roles. The servant should be skillful in the role and should not improvise on it. The evolution of new techniques to achieve a goal, or the evolution of new goals following introspection are not for the commoner, according to the dominator paradigm.
 
 This in turn connects to the phenomenon of conservative versus liberal, past and future, inertia and energy. In a very broad sense, there are social elements who want things to remain the same, presumably because they are winning, doing well, or at least comfortable, and there are elements that want things to change because they are presumably unhappy with how things currently are. Kings generally spend a lot of energy becoming King. They generally would like things to stay the same in that regard, to get a good return on their investment. This represents the force of memory, of inertia, of heavy matter, fixed perceptions, rigid models, crystalline knowledge, dogma, stability, decay, entropy, \[tamas\](http://www.yogabasics.com/learn/the-3-gunas-of-nature/).
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f459608a-e804-4590-a92a-421c8b78ab6b.jpg)
+![Matter and Energy getting it on](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f459608a-e804-4590-a92a-421c8b78ab6b.jpg)
 
 ## Science1 implies Change
 
