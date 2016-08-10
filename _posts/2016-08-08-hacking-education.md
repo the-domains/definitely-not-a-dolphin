@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-09T22:20:44.153Z'
+datePublished: '2016-08-10T02:51:44.720Z'
 sourcePath: _posts/2016-08-08-hacking-education.md
 inFeed: true
 hasPage: false
 author: []
 via: {}
-dateModified: '2016-08-09T22:20:42.254Z'
+dateModified: '2016-08-10T02:51:42.664Z'
 title: Hacking Education
 publisher: {}
 description: >-
