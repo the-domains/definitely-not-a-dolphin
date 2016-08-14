@@ -16,5 +16,9 @@ analytics:
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/eb64b940-353b-4516-bb78-469497f9e6cc.gif
 name: Definitely not a dolphin
+navigation:
+  - name: Hacking Education
+    id: 6cfb132c-b8c5-4390-ba69-99e5bc5bae7c
+    type: content
 title: Creatures are Beautiful
 description: Who are you?
