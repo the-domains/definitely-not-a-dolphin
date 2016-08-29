@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-28T01:17:24.662Z'
+datePublished: '2016-08-28T01:18:10.296Z'
 sourcePath: _posts/2016-08-08-hacking-education.md
-inFeed: false
+inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-28T01:17:22.652Z'
+dateModified: '2016-08-28T01:18:08.853Z'
 title: Hacking Education
 publisher: {}
 description: >-
@@ -16,7 +16,7 @@ description: >-
   society in general. Here’s why.
 starred: true
 url: hacking-education/index.html
-_type: Blurb
+_type: Article
 
 ---
 ![This is what hackers do. Do you believe that?](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6d16ed5-9ce2-41a8-b558-e67e487a8255.jpg)
