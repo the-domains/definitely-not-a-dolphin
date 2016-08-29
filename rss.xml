@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Creatures are Beautiful]]></title>
+        <description><![CDATA[Creatures are Beautiful]]></description>
+        <link>https://thegrid.ai/definitely-not-a-dolphin/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 28 Aug 2016 01:18:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/definitely-not-a-dolphin/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Hacking Education]]></title>
+            <description><![CDATA[<article><h1>Hacking Education</h1><h2>It’s all about Science</h2><p>I went to a hacker conference in Las Vegas this week. Hacking culture has been around long enough that there are now second generation hackers, children of hackers that are coming to hacker conferences and participating in workshops specifically targeting children. I think this is good for those children and society in general. Here’s why.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6d16ed5-9ce2-41a8-b558-e67e487a8255.jpg"></article>]]></description>
+            <link>https://thegrid.ai/definitely-not-a-dolphin/hacking-education/index.html</link>
+            <guid isPermaLink="false">91c75838-216a-4732-a765-b2976228fa70</guid>
+            <pubDate>Sun, 28 Aug 2016 01:18:10 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hacking Education]]></title>
+            <description><![CDATA[<article><h1>Hacking Education</h1><h2>It’s all about Science</h2><p>I went to a hacker conference in Las Vegas this week. Hacking culture has been around long enough that there are now second generation hackers, children of hackers that are coming to hacker conferences and participating in workshops specifically targeting children. I think this is good for those children and society in general. Here’s why.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6d16ed5-9ce2-41a8-b558-e67e487a8255.jpg"></article>]]></description>
+            <link>https://thegrid.ai/definitely-not-a-dolphin/hacking-education/index.html</link>
+            <guid isPermaLink="false">6cfb132c-b8c5-4390-ba69-99e5bc5bae7c</guid>
+            <pubDate>Sun, 14 Aug 2016 00:31:56 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[rkern/line_profiler]]></title>
+            <description><![CDATA[<article><h1>rkern/line_profiler</h1><p>line_profiler - Line-by-line profiling for Python</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/fd554d54576f6a7bfa3f49f2894c5808/noop?input=https%3A%2F%2Favatars3.githubusercontent.com%2Fu%2F46135%3Fv%3D3%26s%3D400"></article>]]></description>
+            <link>https://github.com/rkern/line_profiler</link>
+            <guid isPermaLink="false">34868936-95fe-4ce0-9bea-7d8b3d522831</guid>
+            <pubDate>Thu, 11 Aug 2016 07:02:02 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
